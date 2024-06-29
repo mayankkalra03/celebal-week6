@@ -1,8 +1,8 @@
-##Project Overview
+## Project Overview
 
 This project is a Spotify clone built using React which allows the users to play their music.
 
-##Getting started
+## Getting started
 
 Follow these instructions to get your copy of the project up and running on your local machine for development and testing purposes.
 
